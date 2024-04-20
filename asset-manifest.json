@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/reactFirebaseAuthentication/static/css/main.a9cffe16.css",
+    "main.js": "/reactFirebaseAuthentication/static/js/main.91a09b34.js",
+    "static/js/453.d5d33d61.chunk.js": "/reactFirebaseAuthentication/static/js/453.d5d33d61.chunk.js",
+    "static/media/backgorundPage.webp": "/reactFirebaseAuthentication/static/media/backgorundPage.19b57f345c88e4eb4ba4.webp",
+    "static/media/backgorundLogin.webp": "/reactFirebaseAuthentication/static/media/backgorundLogin.78c584aedaabfc873c5e.webp",
+    "index.html": "/reactFirebaseAuthentication/index.html",
+    "main.a9cffe16.css.map": "/reactFirebaseAuthentication/static/css/main.a9cffe16.css.map",
+    "main.91a09b34.js.map": "/reactFirebaseAuthentication/static/js/main.91a09b34.js.map",
+    "453.d5d33d61.chunk.js.map": "/reactFirebaseAuthentication/static/js/453.d5d33d61.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9cffe16.css",
+    "static/js/main.91a09b34.js"
+  ]
+}
